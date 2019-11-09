@@ -1,0 +1,2843 @@
+[
+  {
+      "name": "Residencial Augusta Park",
+      "code": "333083627",
+      "latitude": "41.399939",
+      "longitude": "2.13847",
+      "address": {
+          "streetType": "C",
+          "street": "Copèrnic",
+          "number1": "30",
+          "number2": "32",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sant Gervasi - Galvany",
+          "barriCode": "26",
+          "postalCode": "8021",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932003088",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "933624911",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933624910",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Associació Edelweiss",
+      "code": "1261113025",
+      "latitude": "41.425958",
+      "longitude": "2.168665",
+      "address": {
+          "streetType": "C",
+          "street": "Aguilar",
+          "number1": "54",
+          "number2": "54",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "la Font d'en Fargues",
+          "barriCode": "36",
+          "postalCode": "8032",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "933570258",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934296916",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida Gent Gran",
+      "code": "2114093743",
+      "latitude": "41.400254",
+      "longitude": "2.183127",
+      "address": {
+          "streetType": "G.V.",
+          "street": "Corts Catalanes",
+          "number1": "800",
+          "number2": "800",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "el Fort Pienc",
+          "barriCode": "5",
+          "postalCode": "8013",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "932321081",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932321081",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Edelweiss Vallvidrera",
+      "code": "75990013652",
+      "latitude": "41.414992",
+      "longitude": "2.108249",
+      "address": {
+          "streetType": "C",
+          "street": "Algarves",
+          "number1": "23",
+          "number2": "23",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Vallvidrera, el Tibidabo i les Planes",
+          "barriCode": "22",
+          "postalCode": "8017",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934069124",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Ausiàs Marc",
+      "code": "75990020599",
+      "latitude": "41.391904",
+      "longitude": "2.176533",
+      "address": {
+          "streetType": "C",
+          "street": "Ausiàs Marc",
+          "number1": "46",
+          "number2": "46",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8010",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932325020",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per Gent Gran Canava 2002 S.L.",
+      "code": "75990021933",
+      "latitude": "41.393811",
+      "longitude": "2.174971",
+      "address": {
+          "streetType": "C",
+          "street": "Bailèn",
+          "number1": "46",
+          "number2": "46",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8010",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932652418",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran la Nativitat de Nostra Senyora",
+      "code": "75990029819",
+      "latitude": "41.394117",
+      "longitude": "2.130824",
+      "address": {
+          "streetType": "C",
+          "street": "Buïgas",
+          "number1": "23",
+          "number2": "23",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "les Tres Torres",
+          "barriCode": "24",
+          "postalCode": "8017",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932032800",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida Francisco Darder",
+      "code": "75990033549",
+      "latitude": "41.410197",
+      "longitude": "2.157194",
+      "address": {
+          "streetType": "C",
+          "street": "Cardener",
+          "number1": "49",
+          "number2": "49",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "la Salut",
+          "barriCode": "30",
+          "postalCode": "8024",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932853558",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932853557",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Santa Creu",
+      "code": "75990050152",
+      "latitude": "41.40558",
+      "longitude": "2.141368",
+      "address": {
+          "streetType": "C",
+          "street": "Elisa",
+          "number1": "22",
+          "number2": "22",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "el Putxet i el Farró",
+          "barriCode": "27",
+          "postalCode": "8023",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932128197",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932111126",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran San Miguel Arcángel",
+      "code": "75990051715",
+      "latitude": "41.407677",
+      "longitude": "2.146176",
+      "address": {
+          "streetType": "C",
+          "street": "Escipió",
+          "number1": "17",
+          "number2": "17",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "el Putxet i el Farró",
+          "barriCode": "27",
+          "postalCode": "8023",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934170582",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida Vil·la Salut",
+      "code": "75990056448",
+      "latitude": "41.417036",
+      "longitude": "2.165859",
+      "address": {
+          "streetType": "C",
+          "street": "Francesc Alegre",
+          "number1": "26",
+          "number2": "26",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Can Baró",
+          "barriCode": "34",
+          "postalCode": "8024",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932108787",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932190375",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Verdaguer",
+      "code": "75990060606",
+      "latitude": "41.3991",
+      "longitude": "2.168748",
+      "address": {
+          "streetType": "Av",
+          "street": "Diagonal",
+          "number1": "382",
+          "number2": "382",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8037",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934574990",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Jubany",
+      "code": "75990061621",
+      "latitude": "41.412538",
+      "longitude": "2.140046",
+      "address": {
+          "streetType": "Av",
+          "street": "República Argentina",
+          "number1": "236",
+          "number2": "236",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "Vallcarca i els Penitents",
+          "barriCode": "28",
+          "postalCode": "8023",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933487486",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932098715",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Nova Convivència",
+      "code": "75990069914",
+      "latitude": "41.378227",
+      "longitude": "2.15287",
+      "address": {
+          "streetType": "G.V.",
+          "street": "Corts Catalanes",
+          "number1": "429",
+          "number2": "429",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Nova Esquerra de l'Eixample",
+          "barriCode": "9",
+          "postalCode": "8015",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934269636",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Rosben",
+      "code": "75990070884",
+      "latitude": "41.393755",
+      "longitude": "2.173584",
+      "address": {
+          "streetType": "G.V.",
+          "street": "Corts Catalanes",
+          "number1": "659",
+          "number2": "659",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8010",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932659144",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Merán",
+      "code": "75990071089",
+      "latitude": "41.393383",
+      "longitude": "2.17397",
+      "address": {
+          "streetType": "G.V.",
+          "street": "Corts Catalanes",
+          "number1": "692",
+          "number2": "692",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8010",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932650602",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932650542",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Verge del Vinyet *Llúria",
+      "code": "75990074295",
+      "latitude": "41.395547",
+      "longitude": "2.165897",
+      "address": {
+          "streetType": "C",
+          "street": "Roger de Llúria",
+          "number1": "92",
+          "number2": "92",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8009",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "657037078",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934578861",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Star",
+      "code": "75990082464",
+      "latitude": "41.427422",
+      "longitude": "2.169424",
+      "address": {
+          "streetType": "Pg",
+          "street": "Maragall",
+          "number1": "306",
+          "number2": "308",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "Vilapicina i la Torre Llobeta",
+          "barriCode": "44",
+          "postalCode": "8031",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "699055048",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933572054",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran  Maria Reina Siervas de Jesús",
+      "code": "75990088994",
+      "latitude": "41.392164",
+      "longitude": "2.110577",
+      "address": {
+          "streetType": "C",
+          "street": "Moneders",
+          "number1": "12",
+          "number2": "12",
+          "district": "Les Corts",
+          "districtCode": "4",
+          "barri": "Pedralbes",
+          "barriCode": "21",
+          "postalCode": "8034",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932057400",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932057311",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932057350",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932036775",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Llar de l'Avi",
+      "code": "75990091422",
+      "latitude": "41.40026",
+      "longitude": "2.141223",
+      "address": {
+          "streetType": "C",
+          "street": "Muntaner",
+          "number1": "411",
+          "number2": "411",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sant Gervasi - Galvany",
+          "barriCode": "26",
+          "postalCode": "8021",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932414476",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Pedrell",
+      "code": "75990098762",
+      "latitude": "41.424678",
+      "longitude": "2.166315",
+      "address": {
+          "streetType": "C",
+          "street": "Pedrell",
+          "number1": "52",
+          "number2": "54",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "la Font d'en Fargues",
+          "barriCode": "36",
+          "postalCode": "8032",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933576373",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933574869",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Acolliment a la Vellesa I",
+      "code": "75990105220",
+      "latitude": "41.405456",
+      "longitude": "2.205463",
+      "address": {
+          "streetType": "C",
+          "street": "Pujades",
+          "number1": "273",
+          "number2": "275",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "el Poblenou",
+          "barriCode": "68",
+          "postalCode": "8005",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933077058",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "626876540",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistencial per a Gent Gran Refugi d'Obreres",
+      "code": "75990106696",
+      "latitude": "41.408303",
+      "longitude": "2.148219",
+      "address": {
+          "streetType": "Av",
+          "street": "República Argentina",
+          "number1": "16",
+          "number2": "18",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "Vallcarca i els Penitents",
+          "barriCode": "28",
+          "postalCode": "8023",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "932123376",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932121168",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Centre Residencial Putxet",
+      "code": "75990108312",
+      "latitude": "41.408102",
+      "longitude": "2.14089",
+      "address": {
+          "streetType": "C",
+          "street": "Roca i Batlle",
+          "number1": "31",
+          "number2": "35",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "el Putxet i el Farró",
+          "barriCode": "27",
+          "postalCode": "8023",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932540440",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida Nostra Senyora  del Pilar",
+      "code": "75990114865",
+      "latitude": "41.40919",
+      "longitude": "2.134677",
+      "address": {
+          "streetType": "Pg",
+          "street": "Sant Gervasi",
+          "number1": "27",
+          "number2": "27",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sant Gervasi - la Bonanova",
+          "barriCode": "25",
+          "postalCode": "8022",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934180581",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistencial per a Gent Gran San Pedro",
+      "code": "75990116588",
+      "latitude": "41.390806",
+      "longitude": "2.17807",
+      "address": {
+          "streetType": "Rda",
+          "street": "Sant Pere",
+          "number1": "60",
+          "number2": "60",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8010",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933102860",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Sociosanitaria Assistida Psicoclínica Mare de Déu de la Mercè",
+      "code": "75990127413",
+      "latitude": "41.437876",
+      "longitude": "2.161999",
+      "address": {
+          "streetType": "Pg",
+          "street": "Universal",
+          "number1": "34",
+          "number2": "34",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Horta",
+          "barriCode": "43",
+          "postalCode": "8042",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934275250",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida Amor de Dios",
+      "code": "75990133592",
+      "latitude": "41.430019",
+      "longitude": "2.171457",
+      "address": {
+          "streetType": "C",
+          "street": "Vilapicina",
+          "number1": "21",
+          "number2": "25",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "Vilapicina i la Torre Llobeta",
+          "barriCode": "44",
+          "postalCode": "8031",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933577350",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934293408",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Aragó",
+      "code": "75990144212",
+      "latitude": "41.394034",
+      "longitude": "2.167077",
+      "address": {
+          "streetType": "C",
+          "street": "Aragó",
+          "number1": "293",
+          "number2": "293",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8009",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934876061",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934875050",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Lesseps",
+      "code": "75990148201",
+      "latitude": "41.405377",
+      "longitude": "2.15192",
+      "address": {
+          "streetType": "C",
+          "street": "Maurici Serrahima",
+          "number1": "12",
+          "number2": "12",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "la Vila de Gràcia",
+          "barriCode": "31",
+          "postalCode": "8012",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932377178",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932377178",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent San Pablo",
+      "code": "75990161605",
+      "latitude": "41.412532",
+      "longitude": "2.18219",
+      "address": {
+          "streetType": "C",
+          "street": "Coll i Vehí",
+          "number1": "26",
+          "number2": "26",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "el Camp de l'Arpa del Clot",
+          "barriCode": "64",
+          "postalCode": "8026",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934502577",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Hogar La Salud",
+      "code": "75990169127",
+      "latitude": "41.418493",
+      "longitude": "2.143985",
+      "address": {
+          "streetType": "C",
+          "street": "Cardedeu",
+          "number1": "47",
+          "number2": "47",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "Vallcarca i els Penitents",
+          "barriCode": "28",
+          "postalCode": "8023",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932103252",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Desalup-Horta",
+      "code": "75990171526",
+      "latitude": "41.428524",
+      "longitude": "2.159371",
+      "address": {
+          "streetType": "Bda",
+          "street": "Plana",
+          "number1": "7",
+          "number2": "7",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Horta",
+          "barriCode": "43",
+          "postalCode": "8032",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934209123",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Casa meva",
+      "code": "75990173185",
+      "latitude": "41.405278",
+      "longitude": "2.1287",
+      "address": {
+          "streetType": "C",
+          "street": "Vilana",
+          "number1": "10",
+          "number2": "10",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sant Gervasi - la Bonanova",
+          "barriCode": "25",
+          "postalCode": "8022",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934171922",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida Dolça Llar",
+      "code": "75990173189",
+      "latitude": "41.402777",
+      "longitude": "2.12883",
+      "address": {
+          "streetType": "C",
+          "street": "Escoles Pies",
+          "number1": "100",
+          "number2": "100",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "les Tres Torres",
+          "barriCode": "24",
+          "postalCode": "8017",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932123428",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934176748",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència d'Àvies Alba",
+      "code": "75990173861",
+      "latitude": "41.40912",
+      "longitude": "2.109882",
+      "address": {
+          "streetType": "Ptge",
+          "street": "Santa Amèlia",
+          "number1": "1",
+          "number2": "1",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sarrià",
+          "barriCode": "23",
+          "postalCode": "8017",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932039740",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932038850",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Joan Josep",
+      "code": "75990174206",
+      "latitude": "41.431984",
+      "longitude": "2.169757",
+      "address": {
+          "streetType": "Pg",
+          "street": "Peira",
+          "number1": "42",
+          "number2": "42",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "el Turó de la Peira",
+          "barriCode": "46",
+          "postalCode": "8031",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "933589912",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933589912",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran El Vent",
+      "code": "75990210618",
+      "latitude": "41.431086",
+      "longitude": "2.160939",
+      "address": {
+          "streetType": "C",
+          "street": "Vent",
+          "number1": "4",
+          "number2": "4",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Horta",
+          "barriCode": "43",
+          "postalCode": "8031",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934290988",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Diagonal",
+      "code": "75990210628",
+      "latitude": "41.398066",
+      "longitude": "2.166527",
+      "address": {
+          "streetType": "Av",
+          "street": "Diagonal",
+          "number1": "343",
+          "number2": "343",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8037",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934587710",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Merán Lesseps",
+      "code": "75990212200",
+      "latitude": "41.404966",
+      "longitude": "2.153652",
+      "address": {
+          "streetType": "C",
+          "street": "Santa Àgata",
+          "number1": "41",
+          "number2": "41",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "la Vila de Gràcia",
+          "barriCode": "31",
+          "postalCode": "8012",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932175242",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932172661",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934155109",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Ontalva",
+      "code": "75990212206",
+      "latitude": "41.393755",
+      "longitude": "2.173584",
+      "address": {
+          "streetType": "G.V.",
+          "street": "Corts Catalanes",
+          "number1": "659",
+          "number2": "659",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8010",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932658086",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Vil·la Magda",
+      "code": "75990218361",
+      "latitude": "41.421018",
+      "longitude": "2.118806",
+      "address": {
+          "streetType": "C",
+          "street": "Colònia del Tibidabo",
+          "number1": "3",
+          "number2": "3",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Vallvidrera, el Tibidabo i les Planes",
+          "barriCode": "22",
+          "postalCode": "8035",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932123028",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida Masdeu Hogar",
+      "code": "75990218364",
+      "latitude": "41.433107",
+      "longitude": "2.162717",
+      "address": {
+          "streetType": "C",
+          "street": "Mestre Dalmau",
+          "number1": "3",
+          "number2": "3",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Horta",
+          "barriCode": "43",
+          "postalCode": "8031",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934277361",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Catalunya I",
+      "code": "75990218365",
+      "latitude": "41.393807",
+      "longitude": "2.159492",
+      "address": {
+          "streetType": "Rbla",
+          "street": "Catalunya",
+          "number1": "109",
+          "number2": "109",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8008",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934879249",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Esguard",
+      "code": "75990226795",
+      "latitude": "41.39595",
+      "longitude": "2.162561",
+      "address": {
+          "streetType": "C",
+          "street": "Provença",
+          "number1": "275",
+          "number2": "275",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8037",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "932151363",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932151363",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida Barcelona",
+      "code": "75990231856",
+      "latitude": "41.434296",
+      "longitude": "2.163339",
+      "address": {
+          "streetType": "Pg",
+          "street": "Fabra i Puig",
+          "number1": "395",
+          "number2": "395",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Horta",
+          "barriCode": "43",
+          "postalCode": "8031",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934270375",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Bon repòs",
+      "code": "75990231860",
+      "latitude": "41.40236",
+      "longitude": "2.166161",
+      "address": {
+          "streetType": "Pg",
+          "street": "Sant Joan",
+          "number1": "156",
+          "number2": "156",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "el Camp d'en Grassot i Gràcia Nova",
+          "barriCode": "32",
+          "postalCode": "8037",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932073002",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Arrels",
+      "code": "75990263649",
+      "latitude": "41.378227",
+      "longitude": "2.15287",
+      "address": {
+          "streetType": "G.V.",
+          "street": "Corts Catalanes",
+          "number1": "429",
+          "number2": "429",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Nova Esquerra de l'Eixample",
+          "barriCode": "9",
+          "postalCode": "8015",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934254030",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Santa Rita",
+      "code": "75990274663",
+      "latitude": "41.382856",
+      "longitude": "2.168699",
+      "address": {
+          "streetType": "C",
+          "street": "Doctor Dou",
+          "number1": "12",
+          "number2": "12",
+          "district": "Ciutat Vella",
+          "districtCode": "1",
+          "barri": "el Raval",
+          "barriCode": "1",
+          "postalCode": "8001",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Informació",
+              "phone": "900264268",
+              "infoCom": ""
+          },
+          {
+              "type": "Centraleta",
+              "phone": "933025905",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran La Mercè",
+      "code": "75990274667",
+      "latitude": "41.379796",
+      "longitude": "2.177794",
+      "address": {
+          "streetType": "C",
+          "street": "Rull",
+          "number1": "1",
+          "number2": "1",
+          "district": "Ciutat Vella",
+          "districtCode": "1",
+          "barri": "el Barri Gòtic",
+          "barriCode": "2",
+          "postalCode": "8002",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934122144",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida Clara",
+      "code": "75990274669",
+      "latitude": "41.422805",
+      "longitude": "2.16039",
+      "address": {
+          "streetType": "C",
+          "street": "Santa Otília",
+          "number1": "13",
+          "number2": "15",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "la Font d'en Fargues",
+          "barriCode": "36",
+          "postalCode": "8032",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934209562",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Diagonal I",
+      "code": "75990274672",
+      "latitude": "41.399934",
+      "longitude": "2.16991",
+      "address": {
+          "streetType": "Pg",
+          "street": "Sant Joan",
+          "number1": "104",
+          "number2": "104",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8037",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934590392",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934583146",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Associació Sagrada Família per a Ancians",
+      "code": "75990282598",
+      "latitude": "41.403015",
+      "longitude": "2.170399",
+      "address": {
+          "streetType": "C",
+          "street": "Rosselló",
+          "number1": "344",
+          "number2": "344",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Sagrada Família",
+          "barriCode": "6",
+          "postalCode": "8025",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934585252",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932073458",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Casa d'Asil de Sant Andreu de Palomar",
+      "code": "75990282603",
+      "latitude": "41.438688",
+      "longitude": "2.186123",
+      "address": {
+          "streetType": "C",
+          "street": "Agustí i Milà",
+          "number1": "72",
+          "number2": "82",
+          "district": "Sant Andreu",
+          "districtCode": "9",
+          "barri": "Sant Andreu",
+          "barriCode": "60",
+          "postalCode": "8030",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933453529",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933118400",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Casa Nostra",
+      "code": "75990282607",
+      "latitude": "41.397078",
+      "longitude": "2.162549",
+      "address": {
+          "streetType": "Av",
+          "street": "Diagonal",
+          "number1": "369",
+          "number2": "369",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8037",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934880827",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Pro Avis en Família",
+      "code": "75990288168",
+      "latitude": "41.400262",
+      "longitude": "2.141585",
+      "address": {
+          "streetType": "C",
+          "street": "Muntaner",
+          "number1": "402",
+          "number2": "402",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sant Gervasi - Galvany",
+          "barriCode": "26",
+          "postalCode": "8006",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934146781",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Mare de Déu de Montserrat",
+      "code": "75990288221",
+      "latitude": "41.424153",
+      "longitude": "2.182775",
+      "address": {
+          "streetType": "C",
+          "street": "Cienfuegos",
+          "number1": "27",
+          "number2": "27",
+          "district": "Sant Andreu",
+          "districtCode": "9",
+          "barri": "el Congrés i els Indians",
+          "barriCode": "62",
+          "postalCode": "8027",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933528007",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran  Roger de Flor, S.L.",
+      "code": "75990288226",
+      "latitude": "41.396121",
+      "longitude": "2.176736",
+      "address": {
+          "streetType": "G.V.",
+          "street": "Corts Catalanes",
+          "number1": "669",
+          "number2": "669",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8013",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932655307",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Sant Daniel I",
+      "code": "75990288228",
+      "latitude": "41.393581",
+      "longitude": "2.15108",
+      "address": {
+          "streetType": "C",
+          "street": "Londres",
+          "number1": "94",
+          "number2": "94",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "l'Antiga Esquerra de l'Eixample",
+          "barriCode": "8",
+          "postalCode": "8036",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932003127",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932005856",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Llar Malpa",
+      "code": "75990288229",
+      "latitude": "41.383402",
+      "longitude": "2.159812",
+      "address": {
+          "streetType": "G.V.",
+          "street": "Corts Catalanes",
+          "number1": "541",
+          "number2": "541",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "l'Antiga Esquerra de l'Eixample",
+          "barriCode": "8",
+          "postalCode": "8011",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932656212",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Catalunya",
+      "code": "75990294076",
+      "latitude": "41.417297",
+      "longitude": "2.16532",
+      "address": {
+          "streetType": "C",
+          "street": "Francesc Alegre",
+          "number1": "30",
+          "number2": "30",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Can Baró",
+          "barriCode": "34",
+          "postalCode": "8024",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932100193",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assisitida per a Gent Gran Los Olivos",
+      "code": "75990294077",
+      "latitude": "41.421785",
+      "longitude": "2.160138",
+      "address": {
+          "streetType": "C",
+          "street": "Montserrat de Casanovas",
+          "number1": "201",
+          "number2": "209",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "el Carmel",
+          "barriCode": "37",
+          "postalCode": "8032",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933587742",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "933578868",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran La Pau",
+      "code": "75990294079",
+      "latitude": "41.388958",
+      "longitude": "2.161394",
+      "address": {
+          "streetType": "Pl",
+          "street": "Doctor Letamendi",
+          "number1": "35",
+          "number2": "35",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "l'Antiga Esquerra de l'Eixample",
+          "barriCode": "8",
+          "postalCode": "8007",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934537507",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Olivaret Eixample",
+      "code": "75990294080",
+      "latitude": "41.394068",
+      "longitude": "2.176256",
+      "address": {
+          "streetType": "Pl",
+          "street": "Tetuan",
+          "number1": "2",
+          "number2": "2",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8010",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932323915",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Betània",
+      "code": "75990325146",
+      "latitude": "41.407112",
+      "longitude": "2.11437",
+      "address": {
+          "streetType": "Av",
+          "street": "Vallvidrera",
+          "number1": "34",
+          "number2": "34",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sarrià",
+          "barriCode": "23",
+          "postalCode": "8017",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934068053",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932051735",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          },
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Verdi Residencial",
+      "code": "75990325148",
+      "latitude": "41.407422",
+      "longitude": "2.153398",
+      "address": {
+          "streetType": "C",
+          "street": "Verdi",
+          "number1": "142",
+          "number2": "142",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "la Vila de Gràcia",
+          "barriCode": "31",
+          "postalCode": "8012",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932372841",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  },
+  {
+      "name": "Residència Assistida per a Gent Gran Nogués",
+      "code": "75990334213",
+      "latitude": "41.407982",
+      "longitude": "2.166284",
+      "address": {
+          "streetType": "Ptge",
+          "street": "Nogués",
+          "number1": "25",
+          "number2": "25",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "el Camp d'en Grassot i Gràcia Nova",
+          "barriCode": "32",
+          "postalCode": "8025",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932198600",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "",
+              "endPeriod": "",
+              "startHours": "",
+              "endHours": "",
+              "observacions": "",
+              "days": ""
+          }
+      ]
+  }
+]

@@ -1,0 +1,2199 @@
+[
+	{
+		"name": "Instituto Oftalmológico Tres Torres",
+		"code": "68125439",
+		"latitude": "41.397669",
+		"longitude": "2.129943",
+		"address": {
+			"streetType": "Via",
+			"street": "Augusta",
+			"number1": "281",
+			"number2": "285",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "les Tres Torres",
+			"barriCode": "24",
+			"postalCode": "8017",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "932009879",
+				"infoCom": ""
+			},
+			{
+				"type": "Informació",
+				"phone": "900842848",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Hospital de dia - Numància",
+		"code": "179151955",
+		"latitude": "41.381424",
+		"longitude": "2.141052",
+		"address": {
+			"streetType": "C",
+			"street": "Numància",
+			"number1": "9",
+			"number2": "13",
+			"district": "Sants-Montjuïc",
+			"districtCode": "3",
+			"barri": "Sants",
+			"barriCode": "18",
+			"postalCode": "8029",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Centraleta",
+				"phone": "933249600",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "933249603",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T18:00:00",
+				"observacions": " ",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T18:00:00",
+				"observacions": " ",
+				"days": "11"
+			}
+		]
+	},
+	{
+		"name": "Centre d'Atenció Primària Roquetes",
+		"code": "334115716",
+		"latitude": "41.446174",
+		"longitude": "2.173934",
+		"address": {
+			"streetType": "C",
+			"street": "Garigliano",
+			"number1": "23",
+			"number2": "27",
+			"district": "Nou Barris",
+			"districtCode": "8",
+			"barri": "les Roquetes",
+			"barriCode": "50",
+			"postalCode": "8042",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Fax",
+				"phone": "933594470",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "933594470",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "933268901",
+				"infoCom": "Programació de visites"
+			},
+			{
+				"type": "#",
+				"phone": "933268901",
+				"infoCom": "Programació de visites"
+			},
+			{
+				"type": "Centraleta",
+				"phone": "932768068",
+				"infoCom": ""
+			},
+			{
+				"type": "Centraleta",
+				"phone": "932768068",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Fora d'aquest horari truqueu al 061<br>o CUAP Horta o CUAP Cotxeres.",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Fora d'aquest horari truqueu al 061<br>o CUAP Horta o CUAP Cotxeres.",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Fora d'aquest horari truqueu al 061<br>o CUAP Horta o CUAP Cotxeres.",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			}
+		]
+	},
+	{
+		"name": "Centre d'Atenció Primària Gòtic",
+		"code": "349141404",
+		"latitude": "41.378814",
+		"longitude": "2.177034",
+		"address": {
+			"streetType": "Ptge",
+			"street": "Pau",
+			"number1": "1",
+			"number2": "1",
+			"district": "Ciutat Vella",
+			"districtCode": "1",
+			"barri": "el Barri Gòtic",
+			"barriCode": "2",
+			"postalCode": "8002",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Centraleta",
+				"phone": "933436140",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "934120308",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "933268901",
+				"infoCom": "Programació de visites"
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Dissabtes de 9 a 17 h,atenció<br> al CAP Casc Antic.<br>Fora d'aquest horari truqueu al 061<br>o CUAP Manso, Centre Perecamps<br>i  i Hospital del Mar.",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Dissabtes de 9 a 17 h,atenció<br> al CAP Casc Antic.<br>Fora d'aquest horari truqueu al 061<br>o CUAP Manso, Centre Perecamps<br>i  i Hospital del Mar.",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Dissabtes de 9 a 17 h,atenció<br> al CAP Casc Antic.<br>Fora d'aquest horari truqueu al 061<br>o CUAP Manso, Centre Perecamps<br>i  i Hospital del Mar.",
+				"days": "11"
+			}
+		]
+	},
+	{
+		"name": "Centre d'Atenció Primària Sardenya",
+		"code": "1015170605",
+		"latitude": "41.409468",
+		"longitude": "2.165567",
+		"address": {
+			"streetType": "C",
+			"street": "Sardenya",
+			"number1": "466",
+			"number2": "466",
+			"district": "Horta-Guinardó",
+			"districtCode": "7",
+			"barri": "el Baix Guinardó",
+			"barriCode": "33",
+			"postalCode": "8025",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Fax",
+				"phone": "935674381",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "935674381",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "935674380",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "935674380",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": " ",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": " ",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			}
+		]
+	},
+	{
+		"name": "Centre d'Atenció Primària Besòs",
+		"code": "1211130747",
+		"latitude": "41.415398",
+		"longitude": "2.215456",
+		"address": {
+			"streetType": "C",
+			"street": "Alfons el Magnànim",
+			"number1": "57",
+			"number2": "57",
+			"district": "Sant Martí",
+			"districtCode": "10",
+			"barri": "el Besòs i el Maresme",
+			"barriCode": "70",
+			"postalCode": "8019",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Urgències",
+				"phone": "932788235",
+				"infoCom": ""
+			},
+			{
+				"type": "Urgències",
+				"phone": "932788235",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932782585",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932782585",
+				"infoCom": ""
+			},
+			{
+				"type": "Centraleta",
+				"phone": "932788235",
+				"infoCom": ""
+			},
+			{
+				"type": "Centraleta",
+				"phone": "932788235",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Fora d'aquest horari truqueu al 061<br>o CUAP Sant Martí",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Fora d'aquest horari truqueu al 061<br>o CUAP Sant Martí",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Fora d'aquest horari truqueu al 061<br>o CUAP Sant Martí",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			}
+		]
+	},
+	{
+		"name": "Hospital del Mar",
+		"code": "1354152528",
+		"latitude": "41.383433",
+		"longitude": "2.194692",
+		"address": {
+			"streetType": "Pg",
+			"street": "Marítim de la Barceloneta",
+			"number1": "23",
+			"number2": "31",
+			"district": "Ciutat Vella",
+			"districtCode": "1",
+			"barri": "la Barceloneta",
+			"barriCode": "3",
+			"postalCode": "8003",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "932483435",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "932483433",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Centre d'Atenció Primària Les Hortes",
+		"code": "2067120930",
+		"latitude": "41.37165",
+		"longitude": "2.166823",
+		"address": {
+			"streetType": "C",
+			"street": "Nou de la Rambla",
+			"number1": "169",
+			"number2": "169",
+			"district": "Sants-Montjuïc",
+			"districtCode": "3",
+			"barri": "el Poble-sec",
+			"barriCode": "11",
+			"postalCode": "8004",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Fax",
+				"phone": "933249101",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "933249101",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "933249100",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "933249100",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": " ",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": " ",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			}
+		]
+	},
+	{
+		"name": "Hospital Universitari Quirón Dexeus",
+		"code": "75990027608",
+		"latitude": "41.384363",
+		"longitude": "2.126177",
+		"address": {
+			"streetType": "C",
+			"street": "Sabino Arana",
+			"number1": "5",
+			"number2": "19",
+			"district": "Les Corts",
+			"districtCode": "4",
+			"barri": "la Maternitat i Sant Ramon",
+			"barriCode": "20",
+			"postalCode": "8028",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Centraleta",
+				"phone": "932274747",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Corachan",
+		"code": "75990029810",
+		"latitude": "41.393522",
+		"longitude": "2.130756",
+		"address": {
+			"streetType": "C",
+			"street": "Buïgas",
+			"number1": "19",
+			"number2": "19",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "les Tres Torres",
+			"barriCode": "24",
+			"postalCode": "8017",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Fax",
+				"phone": "932801455",
+				"infoCom": ""
+			},
+			{
+				"type": "Centraleta",
+				"phone": "932545800",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "932545807",
+				"infoCom": "Urgències"
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Hospital de Nens de Barcelona",
+		"code": "75990043224",
+		"latitude": "41.39739",
+		"longitude": "2.173892",
+		"address": {
+			"streetType": "C",
+			"street": "Consell de Cent",
+			"number1": "437",
+			"number2": "437",
+			"district": "Eixample",
+			"districtCode": "2",
+			"barri": "la Dreta de Eixample",
+			"barriCode": "7",
+			"postalCode": "8009",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Fax",
+				"phone": "932655017",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "932310512",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932455695",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Mi Tres Torres",
+		"code": "75990049258",
+		"latitude": "41.399249",
+		"longitude": "2.128868",
+		"address": {
+			"streetType": "C",
+			"street": "Doctor Roux",
+			"number1": "76",
+			"number2": "76",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "les Tres Torres",
+			"barriCode": "24",
+			"postalCode": "8017",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "932041300",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932806488",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Institut Català de Retina - Sarrià",
+		"code": "75990051869",
+		"latitude": "41.401751",
+		"longitude": "2.132211",
+		"address": {
+			"streetType": "C",
+			"street": "Ganduxer",
+			"number1": "117",
+			"number2": "117",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "les Tres Torres",
+			"barriCode": "24",
+			"postalCode": "8022",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Atenció al client",
+				"phone": "932547922",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "934187857",
+				"infoCom": ""
+			},
+			{
+				"type": "Urgències",
+				"phone": "934187227",
+				"infoCom": ""
+			},
+			{
+				"type": "Cita prèvia",
+				"phone": "932547922",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Sant Jordi",
+		"code": "75990052917",
+		"latitude": "41.436758",
+		"longitude": "2.193086",
+		"address": {
+			"streetType": "Pl",
+			"street": "Estació",
+			"number1": "12",
+			"number2": "12",
+			"district": "Sant Andreu",
+			"districtCode": "9",
+			"barri": "Sant Andreu",
+			"barriCode": "60",
+			"postalCode": "8030",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Centraleta",
+				"phone": "935047100",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "935047200",
+				"infoCom": "Programació"
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Serveis Clinics S.A.U",
+		"code": "75990058292",
+		"latitude": "41.41251",
+		"longitude": "2.136103",
+		"address": {
+			"streetType": "C",
+			"street": "García-Mariño",
+			"number1": "4",
+			"number2": "4",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "Sant Gervasi - la Bonanova",
+			"barriCode": "25",
+			"postalCode": "8022",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "934174601",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "934174602",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "934189172",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Hospital de Barcelona",
+		"code": "75990060288",
+		"latitude": "41.389891",
+		"longitude": "2.129581",
+		"address": {
+			"streetType": "Av",
+			"street": "Diagonal",
+			"number1": "660",
+			"number2": "660",
+			"district": "Les Corts",
+			"districtCode": "4",
+			"barri": "les Corts",
+			"barriCode": "19",
+			"postalCode": "8034",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "932542400",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Hospital Delfos",
+		"code": "75990066742",
+		"latitude": "41.414037",
+		"longitude": "2.142642",
+		"address": {
+			"streetType": "Av",
+			"street": "Vallcarca",
+			"number1": "151",
+			"number2": "161",
+			"district": "Gràcia",
+			"districtCode": "6",
+			"barri": "Vallcarca i els Penitents",
+			"barriCode": "28",
+			"postalCode": "8023",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "932545000",
+				"infoCom": ""
+			},
+			{
+				"type": "Urgències",
+				"phone": "932545170",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Planas",
+		"code": "75990098805",
+		"latitude": "41.399338",
+		"longitude": "2.115652",
+		"address": {
+			"streetType": "C",
+			"street": "Pere II de Montcada",
+			"number1": "16",
+			"number2": "18",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "Sarrià",
+			"barriCode": "23",
+			"postalCode": "8034",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "932032812",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "CBC Clínica Barceloneta",
+		"code": "75990099869",
+		"latitude": "41.375937",
+		"longitude": "2.189997",
+		"address": {
+			"streetType": "C",
+			"street": "Pescadors",
+			"number1": "88",
+			"number2": "88",
+			"district": "Ciutat Vella",
+			"districtCode": "1",
+			"barri": "la Barceloneta",
+			"barriCode": "3",
+			"postalCode": "8003",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "932214704",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Residència Sociosanitaria Assistida Psicoclínica Mare de Déu de la Mercè",
+		"code": "75990127413",
+		"latitude": "41.437876",
+		"longitude": "2.161999",
+		"address": {
+			"streetType": "Pg",
+			"street": "Universal",
+			"number1": "34",
+			"number2": "34",
+			"district": "Horta-Guinardó",
+			"districtCode": "7",
+			"barri": "Horta",
+			"barriCode": "43",
+			"postalCode": "8042",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "934275250",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Hospital Sant Rafael",
+		"code": "75990130956",
+		"latitude": "41.425727",
+		"longitude": "2.14239",
+		"address": {
+			"streetType": "Pg",
+			"street": "Vall d'Hebron",
+			"number1": "107",
+			"number2": "117",
+			"district": "Horta-Guinardó",
+			"districtCode": "7",
+			"barri": "Montbau",
+			"barriCode": "40",
+			"postalCode": "8035",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Fax",
+				"phone": "934188448",
+				"infoCom": ""
+			},
+			{
+				"type": "Centraleta",
+				"phone": "932112508",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Centro Médico Aragón",
+		"code": "75990132981",
+		"latitude": "41.382842",
+		"longitude": "2.153373",
+		"address": {
+			"streetType": "C",
+			"street": "Viladomat",
+			"number1": "158",
+			"number2": "158",
+			"district": "Eixample",
+			"districtCode": "2",
+			"barri": "la Nova Esquerra de l'Eixample",
+			"barriCode": "9",
+			"postalCode": "8015",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "934529930",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Coroleu",
+		"code": "75990174967",
+		"latitude": "41.433002",
+		"longitude": "2.18701",
+		"address": {
+			"streetType": "C",
+			"street": "Coroleu",
+			"number1": "44",
+			"number2": "50",
+			"district": "Sant Andreu",
+			"districtCode": "9",
+			"barri": "Sant Andreu",
+			"barriCode": "60",
+			"postalCode": "8030",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "931165191",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "931165194",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Sagrada Família",
+		"code": "75990212123",
+		"latitude": "41.400701",
+		"longitude": "2.134805",
+		"address": {
+			"streetType": "C",
+			"street": "Torras i Pujalt",
+			"number1": "1",
+			"number2": "1",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "Sant Gervasi - la Bonanova",
+			"barriCode": "25",
+			"postalCode": "8022",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "936029456",
+				"infoCom": "Urgències"
+			},
+			{
+				"type": "#",
+				"phone": "932122300",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Fundació Privada en Salut Mental CPB. Doctor Fàbregas",
+		"code": "75990218335",
+		"latitude": "41.408839",
+		"longitude": "2.14986",
+		"address": {
+			"streetType": "C",
+			"street": "Mare de Déu del Coll",
+			"number1": "20",
+			"number2": "20",
+			"district": "Gràcia",
+			"districtCode": "6",
+			"barri": "la Salut",
+			"barriCode": "30",
+			"postalCode": "8023",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Fax",
+				"phone": "934187750",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "934187750",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "934189193",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "934189193",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T17:00:00",
+				"observacions": " ",
+				"days": "111"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111011"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T17:00:00",
+				"observacions": " ",
+				"days": "111"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T14:00:00",
+				"observacions": " ",
+				"days": "1111011"
+			}
+		]
+	},
+	{
+		"name": "Centre Hospitalari Copèrnic",
+		"code": "75990218352",
+		"latitude": "41.401136",
+		"longitude": "2.141224",
+		"address": {
+			"streetType": "C",
+			"street": "Copèrnic",
+			"number1": "58",
+			"number2": "58",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "Sant Gervasi - Galvany",
+			"barriCode": "26",
+			"postalCode": "8006",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "900300144",
+				"infoCom": "Urgències MC Mutual"
+			},
+			{
+				"type": "Fax",
+				"phone": "932000694",
+				"infoCom": ""
+			},
+			{
+				"type": "Urgències",
+				"phone": "934141751",
+				"infoCom": ""
+			},
+			{
+				"type": "Centraleta",
+				"phone": "934141992",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Nostra Senyora del Remei",
+		"code": "75990220296",
+		"latitude": "41.409505",
+		"longitude": "2.159737",
+		"address": {
+			"streetType": "C",
+			"street": "Escorial",
+			"number1": "148",
+			"number2": "148",
+			"district": "Gràcia",
+			"districtCode": "6",
+			"barri": "el Camp d'en Grassot i Gràcia Nova",
+			"barriCode": "32",
+			"postalCode": "8024",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Centraleta",
+				"phone": "932850010",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932840008",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Policlínica Barcelona",
+		"code": "75990265000",
+		"latitude": "41.403301",
+		"longitude": "2.149628",
+		"address": {
+			"streetType": "C",
+			"street": "Guillem Tell",
+			"number1": "4",
+			"number2": "4",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "el Putxet i el Farró",
+			"barriCode": "27",
+			"postalCode": "8006",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "934161616",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932184448",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Centro Médico Teknon",
+		"code": "75990274567",
+		"latitude": "41.405484",
+		"longitude": "2.128389",
+		"address": {
+			"streetType": "C",
+			"street": "Vilana",
+			"number1": "12",
+			"number2": "12",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "Sant Gervasi - la Bonanova",
+			"barriCode": "25",
+			"postalCode": "8022",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Centraleta",
+				"phone": "932906200",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932112690",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Nou Hospital Evangèlic",
+		"code": "75990353777",
+		"latitude": "41.411103",
+		"longitude": "2.158927",
+		"address": {
+			"streetType": "C",
+			"street": "Camèlies",
+			"number1": "15",
+			"number2": "17",
+			"district": "Gràcia",
+			"districtCode": "6",
+			"barri": "la Salut",
+			"barriCode": "30",
+			"postalCode": "8024",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Informació",
+				"phone": "932859955",
+				"infoCom": "i petició d'hora"
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Hospital Plató",
+		"code": "75990364469",
+		"latitude": "41.4013",
+		"longitude": "2.142436",
+		"address": {
+			"streetType": "C",
+			"street": "Plató",
+			"number1": "21",
+			"number2": "21",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "Sant Gervasi - Galvany",
+			"barriCode": "26",
+			"postalCode": "8006",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Centraleta",
+				"phone": "933069900",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Hospital Quirónsalud Barcelona",
+		"code": "75990421973",
+		"latitude": "41.414763",
+		"longitude": "2.138586",
+		"address": {
+			"streetType": "Pl",
+			"street": "Alfonso Comín",
+			"number1": "5",
+			"number2": "7",
+			"district": "Gràcia",
+			"districtCode": "6",
+			"barri": "Vallcarca i els Penitents",
+			"barriCode": "28",
+			"postalCode": "8023",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Centraleta",
+				"phone": "932381600",
+				"infoCom": ""
+			},
+			{
+				"type": "Cita prèvia",
+				"phone": "932554000",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Bonanova de Cirurgia Ocular",
+		"code": "75990603216",
+		"latitude": "41.404682",
+		"longitude": "2.132108",
+		"address": {
+			"streetType": "C",
+			"street": "Mandri",
+			"number1": "63",
+			"number2": "63",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "Sant Gervasi - la Bonanova",
+			"barriCode": "25",
+			"postalCode": "8022",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "934340925",
+				"infoCom": "Àrea quirúrgica (Pg Bonanova)"
+			},
+			{
+				"type": "#",
+				"phone": "934340925",
+				"infoCom": "Àrea quirúrgica (Pg Bonanova)"
+			},
+			{
+				"type": "#",
+				"phone": "934342770",
+				"infoCom": "Proves i tractaments (C. Mandri)"
+			},
+			{
+				"type": "#",
+				"phone": "934342770",
+				"infoCom": "Proves i tractaments (C. Mandri)"
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Institut Marquès",
+		"code": "75990626730",
+		"latitude": "41.38932",
+		"longitude": "2.128842",
+		"address": {
+			"streetType": "Av",
+			"street": "Diagonal",
+			"number1": "662",
+			"number2": "664",
+			"district": "Les Corts",
+			"districtCode": "4",
+			"barri": "les Corts",
+			"barriCode": "19",
+			"postalCode": "8034",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "932858216",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932059155",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Clínica Creu Blanca",
+		"code": "75990683269",
+		"latitude": "41.398049",
+		"longitude": "2.118003",
+		"address": {
+			"streetType": "Pg",
+			"street": "Reina Elisenda de Montcada",
+			"number1": "17",
+			"number2": "17",
+			"district": "Sarrià-Sant Gervasi",
+			"districtCode": "5",
+			"barri": "Sarrià",
+			"barriCode": "23",
+			"postalCode": "8034",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Urgències",
+				"phone": "902202230",
+				"infoCom": ""
+			},
+			{
+				"type": "Centraleta",
+				"phone": "932522522",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	},
+	{
+		"name": "Medicina Estètica Balmes",
+		"code": "75990694006",
+		"latitude": "41.391325",
+		"longitude": "2.159845",
+		"address": {
+			"streetType": "C",
+			"street": "Balmes",
+			"number1": "89",
+			"number2": "89",
+			"district": "Eixample",
+			"districtCode": "2",
+			"barri": "l'Antiga Esquerra de l'Eixample",
+			"barriCode": "8",
+			"postalCode": "8008",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "933232520",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "933232520",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T21:00:00",
+				"observacions": " ",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T13:00:00",
+				"observacions": " ",
+				"days": "1111101"
+			}
+		]
+	},
+	{
+		"name": "Centre d'Atenció Primària Manso",
+		"code": "92086000253",
+		"latitude": "41.376475",
+		"longitude": "2.160129",
+		"address": {
+			"streetType": "C",
+			"street": "Manso",
+			"number1": "19",
+			"number2": "19",
+			"district": "Eixample",
+			"districtCode": "2",
+			"barri": "Sant Antoni",
+			"barriCode": "10",
+			"postalCode": "8015",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Fax",
+				"phone": "934263200",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "934263200",
+				"infoCom": ""
+			},
+			{
+				"type": "#",
+				"phone": "933268901",
+				"infoCom": "Programació de visites"
+			},
+			{
+				"type": "#",
+				"phone": "933268901",
+				"infoCom": "Programació de visites"
+			},
+			{
+				"type": "Centraleta",
+				"phone": "935517283",
+				"infoCom": ""
+			},
+			{
+				"type": "Centraleta",
+				"phone": "935517283",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Atenció primària",
+				"days": "1111111"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T00:00:00",
+				"endHours": "2019-11-04T23:59:00",
+				"observacions": "Urgències d'atenció<br>primària",
+				"days": "0"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Atenció primària",
+				"days": "1111111"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T00:00:00",
+				"endHours": "2019-11-04T23:59:00",
+				"observacions": "Urgències d'atenció<br>primària",
+				"days": "0"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T08:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Atenció primària",
+				"days": "1111111"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T00:00:00",
+				"endHours": "2019-11-04T23:59:00",
+				"observacions": "Urgències d'atenció<br>primària",
+				"days": "0"
+			}
+		]
+	},
+	{
+		"name": "Centre d'Atenció Primària Passeig Sant Joan",
+		"code": "92086001558",
+		"latitude": "41.392679",
+		"longitude": "2.178971",
+		"address": {
+			"streetType": "Pg",
+			"street": "Sant Joan",
+			"number1": "20",
+			"number2": "20",
+			"district": "Eixample",
+			"districtCode": "2",
+			"barri": "el Fort Pienc",
+			"barriCode": "5",
+			"postalCode": "8010",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "#",
+				"phone": "933268901",
+				"infoCom": "Programació de visites"
+			},
+			{
+				"type": "#",
+				"phone": "932329389",
+				"infoCom": ""
+			},
+			{
+				"type": "Centraleta",
+				"phone": "932650117",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932450167",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Dissabtes de 9 a 17h, atenció<br> al CAP Casc Antic.<br>Fora d'aquest horari truqueu al 061<br>o CUAP Dos de Maig.",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Dissabtes de 9 a 17h, atenció<br> al CAP Casc Antic.<br>Fora d'aquest horari truqueu al 061<br>o CUAP Dos de Maig.",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Dissabtes de 9 a 17h, atenció<br> al CAP Casc Antic.<br>Fora d'aquest horari truqueu al 061<br>o CUAP Dos de Maig.",
+				"days": "11"
+			},
+			{
+				"startPeriod": "2019-01-01T00:00:00",
+				"endPeriod": "31/12",
+				"startHours": "2019-11-04T09:00:00",
+				"endHours": "2019-11-04T20:00:00",
+				"observacions": "Dissabtes de 9 a 17h, atenció<br> al CAP Casc Antic.<br>Fora d'aquest horari truqueu al 061<br>o CUAP Dos de Maig.",
+				"days": "11"
+			}
+		]
+	},
+	{
+		"name": "Hospital del Mar",
+		"code": "92086001755",
+		"latitude": "41.383433",
+		"longitude": "2.194692",
+		"address": {
+			"streetType": "Pg",
+			"street": "Marítim de la Barceloneta",
+			"number1": "25",
+			"number2": "29",
+			"district": "Ciutat Vella",
+			"districtCode": "1",
+			"barri": "la Barceloneta",
+			"barriCode": "3",
+			"postalCode": "8003",
+			"city": "BARCELONA",
+			"cityCode": "19"
+		},
+		"phones": [
+			{
+				"type": "Centraleta",
+				"phone": "932483000",
+				"infoCom": ""
+			},
+			{
+				"type": "Fax",
+				"phone": "932483254",
+				"infoCom": ""
+			}
+		],
+		"hours": [
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			},
+			{
+				"startPeriod": null,
+				"endPeriod": "",
+				"startHours": null,
+				"endHours": null,
+				"observacions": "",
+				"days": null
+			}
+		]
+	}
+]

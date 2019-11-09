@@ -1,0 +1,2613 @@
+[
+  {
+      "name": "Farmàcia Salvado Lladós",
+      "code": "75990000677",
+      "latitude": "41.391732",
+      "longitude": "2.180345",
+      "address": {
+          "streetType": "Pg",
+          "street": "Sant Joan",
+          "number1": "2",
+          "number2": "2",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "el Fort Pienc",
+          "barriCode": "5",
+          "postalCode": "8010",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932314605",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932314605",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "0"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "0"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Morera Inglés",
+      "code": "75990000684",
+      "latitude": "41.391906",
+      "longitude": "2.179117",
+      "address": {
+          "streetType": "Pg",
+          "street": "Sant Joan",
+          "number1": "3",
+          "number2": "3",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8010",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932324210",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932324210",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "0"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "0"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Roselló Busquet",
+      "code": "75990000877",
+      "latitude": "41.410072",
+      "longitude": "2.154697",
+      "address": {
+          "streetType": "Av",
+          "street": "Santuari St Josep Muntanya",
+          "number1": "6",
+          "number2": "6",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "la Salut",
+          "barriCode": "30",
+          "postalCode": "8024",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "932104757",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932846017",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "0"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "0"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Parés Bursosa",
+      "code": "75990001522",
+      "latitude": "41.416461",
+      "longitude": "2.147676",
+      "address": {
+          "streetType": "C",
+          "street": "Beat Almató",
+          "number1": "20",
+          "number2": "20",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "el Coll",
+          "barriCode": "29",
+          "postalCode": "8023",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932843080",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932843080",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Villar Merchan",
+      "code": "75990001556",
+      "latitude": "41.398772",
+      "longitude": "2.204157",
+      "address": {
+          "streetType": "Rbla",
+          "street": "Poblenou",
+          "number1": "21",
+          "number2": "21",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "el Poblenou",
+          "barriCode": "68",
+          "postalCode": "8005",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932241123",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Ortopèdia Centelles - Prats",
+      "code": "75990002037",
+      "latitude": "41.400111",
+      "longitude": "2.202763",
+      "address": {
+          "streetType": "Rbla",
+          "street": "Poblenou",
+          "number1": "46",
+          "number2": "46",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "el Poblenou",
+          "barriCode": "68",
+          "postalCode": "8005",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933091869",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "933091941",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933091941",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Cebrián Anaut",
+      "code": "75990002146",
+      "latitude": "41.395167",
+      "longitude": "2.126469",
+      "address": {
+          "streetType": "Pg",
+          "street": "Sant Joan Bosco",
+          "number1": "57",
+          "number2": "57",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sarrià",
+          "barriCode": "23",
+          "postalCode": "8017",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932032119",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Planas Pascual",
+      "code": "75990002418",
+      "latitude": "41.4398",
+      "longitude": "2.190815",
+      "address": {
+          "streetType": "Pg",
+          "street": "Torras i Bages",
+          "number1": "83",
+          "number2": "83",
+          "district": "Sant Andreu",
+          "districtCode": "9",
+          "barri": "Sant Andreu",
+          "barriCode": "60",
+          "postalCode": "8030",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933450634",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "933450634",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Fiol Belart",
+      "code": "75990002427",
+      "latitude": "41.385257",
+      "longitude": "2.137174",
+      "address": {
+          "streetType": "C",
+          "street": "Numància",
+          "number1": "84",
+          "number2": "84",
+          "district": "Les Corts",
+          "districtCode": "4",
+          "barri": "les Corts",
+          "barriCode": "19",
+          "postalCode": "8029",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "933219442",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933219442",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Romera Guijarro",
+      "code": "75990002453",
+      "latitude": "41.398085",
+      "longitude": "2.17094",
+      "address": {
+          "streetType": "Pg",
+          "street": "Sant Joan",
+          "number1": "87",
+          "number2": "87",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8009",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934573657",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Orrit Mackenzie",
+      "code": "75990002672",
+      "latitude": "41.399805",
+      "longitude": "2.168665",
+      "address": {
+          "streetType": "Pg",
+          "street": "Sant Joan",
+          "number1": "111",
+          "number2": "111",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8037",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934535373",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934535373",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934578257",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934578257",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T08:00:00",
+              "endHours": "2019-11-04T23:00:00",
+              "observacions": " ",
+              "days": "11"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "1111100"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T08:00:00",
+              "endHours": "2019-11-04T23:00:00",
+              "observacions": " ",
+              "days": "11"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "1111100"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Soler Gornals *Pg de Sant Joan",
+      "code": "75990002714",
+      "latitude": "41.400278",
+      "longitude": "2.168037",
+      "address": {
+          "streetType": "Pg",
+          "street": "Sant Joan",
+          "number1": "117",
+          "number2": "117",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Dreta de Eixample",
+          "barriCode": "7",
+          "postalCode": "8037",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "932080380",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934576339",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "0"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "0"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Berge Sahli",
+      "code": "75990003218",
+      "latitude": "41.358896",
+      "longitude": "2.142849",
+      "address": {
+          "streetType": "C",
+          "street": "Mare de Déu de Port",
+          "number1": "255",
+          "number2": "255",
+          "district": "Sants-Montjuïc",
+          "districtCode": "3",
+          "barri": "la Marina de Port",
+          "barriCode": "13",
+          "postalCode": "8038",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "933311341",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933311341",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Tolosa Gómara",
+      "code": "75990012279",
+      "latitude": "41.425866",
+      "longitude": "2.178096",
+      "address": {
+          "streetType": "C",
+          "street": "Acàcies",
+          "number1": "57",
+          "number2": "57",
+          "district": "Sant Andreu",
+          "districtCode": "9",
+          "barri": "el Congrés i els Indians",
+          "barriCode": "62",
+          "postalCode": "8027",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933517709",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "933521403",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Ferriol Casar",
+      "code": "75990012638",
+      "latitude": "41.461841",
+      "longitude": "2.177557",
+      "address": {
+          "streetType": "C",
+          "street": "Agudes",
+          "number1": "52",
+          "number2": "52",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "Ciutat Meridiana",
+          "barriCode": "55",
+          "postalCode": "8033",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932769300",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932769300",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T08:00:00",
+              "endHours": "2019-11-04T21:00:00",
+              "observacions": " ",
+              "days": "11"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T14:00:00",
+              "observacions": " ",
+              "days": "1111101"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Guerrero Pozo",
+      "code": "75990012730",
+      "latitude": "41.438325",
+      "longitude": "2.187658",
+      "address": {
+          "streetType": "C",
+          "street": "Agustí i Milà",
+          "number1": "38",
+          "number2": "38",
+          "district": "Sant Andreu",
+          "districtCode": "9",
+          "barri": "Sant Andreu",
+          "barriCode": "60",
+          "postalCode": "8030",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933458141",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "933458141",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Muzas Cucalon",
+      "code": "75990012992",
+      "latitude": "41.410898",
+      "longitude": "2.165919",
+      "address": {
+          "streetType": "C",
+          "street": "Alcalde de Móstoles",
+          "number1": "33",
+          "number2": "33",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "el Baix Guinardó",
+          "barriCode": "33",
+          "postalCode": "8025",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934553036",
+              "infoCom": "Telèfon/Fax"
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Zalacaín",
+      "code": "75990013201",
+      "latitude": "41.436006",
+      "longitude": "2.174507",
+      "address": {
+          "streetType": "C",
+          "street": "Alcúdia",
+          "number1": "46",
+          "number2": "46",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "Porta",
+          "barriCode": "45",
+          "postalCode": "8016",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933599147",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Barenys de Lacha",
+      "code": "75990013487",
+      "latitude": "41.435355",
+      "longitude": "2.167588",
+      "address": {
+          "streetType": "Pg",
+          "street": "Urrutia",
+          "number1": "64",
+          "number2": "64",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "Can Peguera",
+          "barriCode": "47",
+          "postalCode": "8031",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934202342",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Escarrà Caldés",
+      "code": "75990013561",
+      "latitude": "41.399924",
+      "longitude": "2.147961",
+      "address": {
+          "streetType": "C",
+          "street": "Alfons XII",
+          "number1": "61",
+          "number2": "61",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sant Gervasi - Galvany",
+          "barriCode": "26",
+          "postalCode": "8006",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932003524",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Pla Pastrana",
+      "code": "75990013626",
+      "latitude": "41.416667",
+      "longitude": "2.213372",
+      "address": {
+          "streetType": "C",
+          "street": "Alfons el Magnànim",
+          "number1": "91",
+          "number2": "91",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "el Besòs i el Maresme",
+          "barriCode": "70",
+          "postalCode": "8019",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933051451",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Bainad Caballé",
+      "code": "75990013741",
+      "latitude": "41.393443",
+      "longitude": "2.180843",
+      "address": {
+          "streetType": "C",
+          "street": "Alí Bei",
+          "number1": "38",
+          "number2": "38",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "el Fort Pienc",
+          "barriCode": "5",
+          "postalCode": "8013",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932314256",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932314256",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Garciapons",
+      "code": "75990014009",
+      "latitude": "41.441691",
+      "longitude": "2.192198",
+      "address": {
+          "streetType": "C",
+          "street": "Cinca",
+          "number1": "92",
+          "number2": "92",
+          "district": "Sant Andreu",
+          "districtCode": "9",
+          "barri": "Sant Andreu",
+          "barriCode": "60",
+          "postalCode": "8030",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933454008",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Palma García",
+      "code": "75990014232",
+      "latitude": "41.407278",
+      "longitude": "2.155737",
+      "address": {
+          "streetType": "C",
+          "street": "Alzina",
+          "number1": "44",
+          "number2": "44",
+          "district": "Gràcia",
+          "districtCode": "6",
+          "barri": "la Vila de Gràcia",
+          "barriCode": "31",
+          "postalCode": "8024",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "932133750",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932133750",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Najar Marton",
+      "code": "75990014312",
+      "latitude": "41.426065",
+      "longitude": "2.169113",
+      "address": {
+          "streetType": "C",
+          "street": "Alt de Pedrell",
+          "number1": "58",
+          "number2": "58",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "la Font d'en Fargues",
+          "barriCode": "36",
+          "postalCode": "8032",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934202001",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Viladot Gamissans",
+      "code": "75990014736",
+      "latitude": "41.394987",
+      "longitude": "2.145092",
+      "address": {
+          "streetType": "C",
+          "street": "Amigó",
+          "number1": "30",
+          "number2": "30",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sant Gervasi - Galvany",
+          "barriCode": "26",
+          "postalCode": "8021",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932003730",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Fariñas Garcia",
+      "code": "75990014819",
+      "latitude": "41.39708",
+      "longitude": "2.142399",
+      "address": {
+          "streetType": "C",
+          "street": "Amigó",
+          "number1": "70",
+          "number2": "70",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sant Gervasi - Galvany",
+          "barriCode": "26",
+          "postalCode": "8021",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932095115",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932092734",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Dorca",
+      "code": "75990014864",
+      "latitude": "41.429941",
+      "longitude": "2.172053",
+      "address": {
+          "streetType": "C",
+          "street": "Amílcar",
+          "number1": "7",
+          "number2": "7",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "Vilapicina i la Torre Llobeta",
+          "barriCode": "44",
+          "postalCode": "8031",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "933578142",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934291781",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia García Barrado",
+      "code": "75990014960",
+      "latitude": "41.422234",
+      "longitude": "2.172802",
+      "address": {
+          "streetType": "C",
+          "street": "Amílcar",
+          "number1": "158",
+          "number2": "158",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "el Guinardó",
+          "barriCode": "35",
+          "postalCode": "8032",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "934365034",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934365034",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Gultresa Colomer",
+      "code": "75990015149",
+      "latitude": "41.41628",
+      "longitude": "2.201259",
+      "address": {
+          "streetType": "C",
+          "street": "Andrade",
+          "number1": "151",
+          "number2": "151",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "Sant Martí de Provençals",
+          "barriCode": "72",
+          "postalCode": "8020",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933149760",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "935393306",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Cabré Alcoverro",
+      "code": "75990015191",
+      "latitude": "41.418986",
+      "longitude": "2.205325",
+      "address": {
+          "streetType": "C",
+          "street": "Andrade",
+          "number1": "224",
+          "number2": "226",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "la Verneda i la Pau",
+          "barriCode": "73",
+          "postalCode": "8020",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933138909",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Domenech Perez",
+      "code": "75990015223",
+      "latitude": "41.380265",
+      "longitude": "2.190496",
+      "address": {
+          "streetType": "C",
+          "street": "Andrea Doria",
+          "number1": "14",
+          "number2": "14",
+          "district": "Ciutat Vella",
+          "districtCode": "1",
+          "barri": "la Barceloneta",
+          "barriCode": "3",
+          "postalCode": "8003",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "932214236",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932214236",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Rotllan Vilalta",
+      "code": "75990015319",
+      "latitude": "41.39612",
+      "longitude": "2.132937",
+      "address": {
+          "streetType": "C",
+          "street": "Àngel Guimerà",
+          "number1": "14",
+          "number2": "14",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "les Tres Torres",
+          "barriCode": "24",
+          "postalCode": "8017",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932010098",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Esquerrà Amargós",
+      "code": "75990015337",
+      "latitude": "41.429906",
+      "longitude": "2.141962",
+      "address": {
+          "streetType": "C",
+          "street": "Àngel Marquès",
+          "number1": "7",
+          "number2": "7",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Montbau",
+          "barriCode": "40",
+          "postalCode": "8035",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934283995",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934283995",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Suñer Lefort",
+      "code": "75990015407",
+      "latitude": "41.411471",
+      "longitude": "2.142613",
+      "address": {
+          "streetType": "Av",
+          "street": "República Argentina",
+          "number1": "175",
+          "number2": "175",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "el Putxet i el Farró",
+          "barriCode": "27",
+          "postalCode": "8023",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932531818",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934172669",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "1"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "1"
+          }
+      ]
+  },
+  {
+      "name": "Farmacia Trias Banyeres Jordi",
+      "code": "75990015613",
+      "latitude": "41.41317",
+      "longitude": "2.196315",
+      "address": {
+          "streetType": "Ptge",
+          "street": "Antoni Gassol",
+          "number1": "22",
+          "number2": "22",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "Sant Martí de Provençals",
+          "barriCode": "72",
+          "postalCode": "8018",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "933075067",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933075067",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Brió Guibernau",
+      "code": "75990015697",
+      "latitude": "41.443458",
+      "longitude": "2.168315",
+      "address": {
+          "streetType": "C",
+          "street": "Antonio Machado",
+          "number1": "18",
+          "number2": "18",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "Canyelles",
+          "barriCode": "49",
+          "postalCode": "8042",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934272495",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934270517",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Garcia",
+      "code": "75990015792",
+      "latitude": "41.378341",
+      "longitude": "2.146159",
+      "address": {
+          "streetType": "C",
+          "street": "Aragó",
+          "number1": "1",
+          "number2": "1",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Nova Esquerra de l'Eixample",
+          "barriCode": "9",
+          "postalCode": "8015",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932296070",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932296175",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T00:00:00",
+              "endHours": "2019-11-04T23:59:00",
+              "observacions": " ",
+              "days": "0"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T00:00:00",
+              "endHours": "2019-11-04T23:59:00",
+              "observacions": " ",
+              "days": "0"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Rasa Valtueña",
+      "code": "75990015828",
+      "latitude": "41.380777",
+      "longitude": "2.149918",
+      "address": {
+          "streetType": "C",
+          "street": "Aragó",
+          "number1": "32",
+          "number2": "32",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Nova Esquerra de l'Eixample",
+          "barriCode": "9",
+          "postalCode": "8015",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "934232084",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934232084",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Castell Forés",
+      "code": "75990016213",
+      "latitude": "41.388562",
+      "longitude": "2.159804",
+      "address": {
+          "streetType": "C",
+          "street": "Aragó",
+          "number1": "207",
+          "number2": "207",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "l'Antiga Esquerra de l'Eixample",
+          "barriCode": "8",
+          "postalCode": "8011",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934532695",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Martí Mas",
+      "code": "75990016765",
+      "latitude": "41.399546",
+      "longitude": "2.174406",
+      "address": {
+          "streetType": "C",
+          "street": "Aragó",
+          "number1": "395",
+          "number2": "395",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "el Fort Pienc",
+          "barriCode": "5",
+          "postalCode": "8013",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934582974",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934575191",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934586295",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Olivella Comas",
+      "code": "75990016900",
+      "latitude": "41.403686",
+      "longitude": "2.180378",
+      "address": {
+          "streetType": "C",
+          "street": "Aragó",
+          "number1": "476",
+          "number2": "476",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "la Sagrada Família",
+          "barriCode": "6",
+          "postalCode": "8013",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932316057",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "932320304",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Mercadé Salavert",
+      "code": "75990017007",
+      "latitude": "41.408173",
+      "longitude": "2.1864",
+      "address": {
+          "streetType": "C",
+          "street": "Aragó",
+          "number1": "592",
+          "number2": "592",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "el Clot",
+          "barriCode": "65",
+          "postalCode": "8026",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "932323908",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932323908",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Puga Gasull",
+      "code": "75990017099",
+      "latitude": "41.41374",
+      "longitude": "2.220458",
+      "address": {
+          "streetType": "C",
+          "street": "Sant Ramon de Penyafort",
+          "number1": "3",
+          "number2": "3",
+          "district": "Sant Martí",
+          "districtCode": "10",
+          "barri": "el Besòs i el Maresme",
+          "barriCode": "70",
+          "postalCode": "8019",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "933580900",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933580900",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Carbó Pallarés",
+      "code": "75990017227",
+      "latitude": "41.422057",
+      "longitude": "2.142479",
+      "address": {
+          "streetType": "C",
+          "street": "Arenys",
+          "number1": "25",
+          "number2": "25",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "la Teixonera",
+          "barriCode": "38",
+          "postalCode": "8035",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932112460",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Gardella Roca",
+      "code": "75990017260",
+      "latitude": "41.423193",
+      "longitude": "2.147084",
+      "address": {
+          "streetType": "C",
+          "street": "Arenys",
+          "number1": "108",
+          "number2": "110",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Sant Gervasi - la Bonanova",
+          "barriCode": "25",
+          "postalCode": "8035",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "934295714",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934295714",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Lavilla Grifols",
+      "code": "75990017391",
+      "latitude": "41.440645",
+      "longitude": "2.182572",
+      "address": {
+          "streetType": "C",
+          "street": "Argullós",
+          "number1": "49",
+          "number2": "49",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "la Prosperitat",
+          "barriCode": "52",
+          "postalCode": "8016",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933540304",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia  Franquesa Massó",
+      "code": "75990017537",
+      "latitude": "41.38641",
+      "longitude": "2.162206",
+      "address": {
+          "streetType": "C",
+          "street": "Aribau",
+          "number1": "18",
+          "number2": "18",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "l'Antiga Esquerra de l'Eixample",
+          "barriCode": "8",
+          "postalCode": "8011",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933174684",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T22:00:00",
+              "observacions": " ",
+              "days": "0"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Urgelles Fabregas",
+      "code": "75990017609",
+      "latitude": "41.38726",
+      "longitude": "2.161077",
+      "address": {
+          "streetType": "C",
+          "street": "Aribau",
+          "number1": "36",
+          "number2": "36",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "l'Antiga Esquerra de l'Eixample",
+          "barriCode": "8",
+          "postalCode": "8011",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934523190",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "934523190",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T21:00:00",
+              "observacions": " ",
+              "days": "11"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T09:00:00",
+              "endHours": "2019-11-04T14:00:00",
+              "observacions": " ",
+              "days": "1111101"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Torres",
+      "code": "75990017682",
+      "latitude": "41.388671",
+      "longitude": "2.159209",
+      "address": {
+          "streetType": "C",
+          "street": "Aribau",
+          "number1": "62",
+          "number2": "62",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "l'Antiga Esquerra de l'Eixample",
+          "barriCode": "8",
+          "postalCode": "8011",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934539220",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934520259",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T00:00:00",
+              "endHours": "2019-11-04T23:59:00",
+              "observacions": " ",
+              "days": "0"
+          },
+          {
+              "startPeriod": "2019-01-01T00:00:00",
+              "endPeriod": "31/12",
+              "startHours": "2019-11-04T00:00:00",
+              "endHours": "2019-11-04T23:59:00",
+              "observacions": " ",
+              "days": "0"
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Casaus Domingo",
+      "code": "75990017764",
+      "latitude": "41.390032",
+      "longitude": "2.157043",
+      "address": {
+          "streetType": "C",
+          "street": "Aribau",
+          "number1": "91",
+          "number2": "91",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "l'Antiga Esquerra de l'Eixample",
+          "barriCode": "8",
+          "postalCode": "8036",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934532990",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934532990",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Barri Flotats",
+      "code": "75990018096",
+      "latitude": "41.393232",
+      "longitude": "2.153181",
+      "address": {
+          "streetType": "C",
+          "street": "Aribau",
+          "number1": "180",
+          "number2": "180",
+          "district": "Eixample",
+          "districtCode": "2",
+          "barri": "l'Antiga Esquerra de l'Eixample",
+          "barriCode": "8",
+          "postalCode": "8036",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "932189045",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932189045",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "932189586",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Núria Aymerich Bardolet",
+      "code": "75990018494",
+      "latitude": "41.399093",
+      "longitude": "2.146075",
+      "address": {
+          "streetType": "C",
+          "street": "Aribau",
+          "number1": "310",
+          "number2": "310",
+          "district": "Sarrià-Sant Gervasi",
+          "districtCode": "5",
+          "barri": "Sant Gervasi - Galvany",
+          "barriCode": "26",
+          "postalCode": "8006",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "932007350",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Escribano Pascual",
+      "code": "75990018712",
+      "latitude": "41.432778",
+      "longitude": "2.145252",
+      "address": {
+          "streetType": "C",
+          "street": "Harmonia",
+          "number1": "1",
+          "number2": "1",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Montbau",
+          "barriCode": "40",
+          "postalCode": "8035",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934282989",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Aguar Toran",
+      "code": "75990018732",
+      "latitude": "41.433711",
+      "longitude": "2.141631",
+      "address": {
+          "streetType": "C",
+          "street": "Harmonia",
+          "number1": "31",
+          "number2": "31",
+          "district": "Horta-Guinardó",
+          "districtCode": "7",
+          "barri": "Montbau",
+          "barriCode": "40",
+          "postalCode": "8035",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "934282111",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "934282111",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Sykuler",
+      "code": "75990019095",
+      "latitude": "41.440657",
+      "longitude": "2.173448",
+      "address": {
+          "streetType": "C",
+          "street": "Artesania",
+          "number1": "70",
+          "number2": "70",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "Verdun",
+          "barriCode": "51",
+          "postalCode": "8042",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "Fax",
+              "phone": "933596272",
+              "infoCom": ""
+          },
+          {
+              "type": "#",
+              "phone": "933596272",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  },
+  {
+      "name": "Farmàcia Carré",
+      "code": "75990019105",
+      "latitude": "41.443095",
+      "longitude": "2.172212",
+      "address": {
+          "streetType": "C",
+          "street": "Artesania",
+          "number1": "102",
+          "number2": "102",
+          "district": "Nou Barris",
+          "districtCode": "8",
+          "barri": "Verdun",
+          "barriCode": "51",
+          "postalCode": "8042",
+          "city": "BARCELONA",
+          "cityCode": "19"
+      },
+      "phones": [
+          {
+              "type": "#",
+              "phone": "933500144",
+              "infoCom": ""
+          },
+          {
+              "type": "Fax",
+              "phone": "933500144",
+              "infoCom": ""
+          }
+      ],
+      "hours": [
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          },
+          {
+              "startPeriod": null,
+              "endPeriod": "",
+              "startHours": null,
+              "endHours": null,
+              "observacions": "",
+              "days": null
+          }
+      ]
+  }
+]
