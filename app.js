@@ -10,6 +10,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 // routes
+const start = require('./routes/start')
+app.use('/', start);
 const hospitals = require('./routes/hospitals')
 app.use('/hospitals', hospitals);
 const pharmacies = require('./routes/pharmacies')
