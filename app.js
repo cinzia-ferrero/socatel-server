@@ -18,6 +18,8 @@ const pharmacies = require('./routes/pharmacies')
 app.use('/pharmacies', pharmacies);
 const elderlyCareHomes = require('./routes/elderlyCareHomes')
 app.use('/elderly-care-homes', elderlyCareHomes);
+const agenda = require('./routes/agenda')
+app.use('/agenda', agenda);
 const services = require('./routes/services')
 app.use('/services', services);
 

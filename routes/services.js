@@ -5,6 +5,7 @@ const helper = require('./helper');
 const hospitalsData = require('./../data/hospitalsCL');
 const pharmaciesData = require('./../data/pharmaciesCL');
 const elderlyCareHomesData = require('./../data/elderlyCareHomesCL');
+const agendaData = require('./../data/agendaCLsliced');
 
 router.post('/nearest', (req, res, next) => {
   const { lat, long, query } = req.body;
@@ -25,8 +26,13 @@ router.post('/nearest', (req, res, next) => {
   }
 
   if(parsedQuery.includes('elderly_care_homes')) {
-    const nearestElderlyCareHomes = helper._getNearest(elderlyCareHomesData, lat, long, numElements, 'elderlyCareHomes');
+    const nearestElderlyCareHomes = helper._getNearest(elderlyCareHomesData, lat, long, numElements, 'elderlyCareHome');
     allNearest = allNearest.concat(nearestElderlyCareHomes);
+  }
+
+  if(parsedQuery.includes('events')) {
+    const nearestAgenda = helper._getAgendaNearest(agendaData, lat, long, numElements, 'event');
+    allNearest = allNearest.concat(nearestAgenda);
   }
 
   res.status(200).json(allNearest);
